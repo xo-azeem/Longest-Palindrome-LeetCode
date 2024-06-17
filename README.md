@@ -23,5 +23,5 @@ My Solution Analysis:
 
   ![image](https://github.com/xo-azeem/Longest-Palindrome-LeetCode/assets/171427226/1fe9e81c-c61b-4e2c-9750-f6f83dc0fb72)
 
-  Time complexity: O(n).</br>Space complexity: O(1).
+  Time complexity: O(n).</br>Space complexity: O(n).
 </div>
